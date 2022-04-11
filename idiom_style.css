@@ -1,0 +1,20 @@
+.idiom-header {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.large-section {
+    font-size: 1.5rem;
+}
+
+.idiom-heading {
+    margin-top: 2rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    padding-left: 2rem;
+}
+
+.idiom-section {
+    padding-left: 3rem;
+}
